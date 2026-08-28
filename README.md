@@ -17,6 +17,19 @@ Run the following command:
 
 python student_grade_analyzer.py
 
+## Python Concepts Used
+
+- `input()` – to take student details and marks
+- `map()` – to convert marks from strings to integers
+- `split()` – to separate the marks entered by the user
+- `round()` – to round the average to 2 decimal places
+- `if / elif / else` – to assign grades
+- `for` loop – to process multiple students
+- `list` – to store student details
+- `append()` – to add student details to the list
+- `upper()` – to display student names in uppercase
+- `print()` – to display the final student details
+
 ## Grade System
 
 - A: 90 and above
